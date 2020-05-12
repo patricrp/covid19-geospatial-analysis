@@ -1,4 +1,4 @@
-Italy COVID-19 Geospatial Analysis
+**Italy COVID-19 Geospatial Analysis**
 
 Geoanalysis with pandas using Folium, CARTO and gmaps to work with maps.
 
